@@ -1,0 +1,48 @@
+h1{
+    Border: 2px solid black;
+    color: green;
+    padding-left: 20px;
+    margin-left: 7%;
+    margin-right:6%;
+    background-color: sandybrown;
+    margin-bottom: 8%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    font-weight: larger;
+    font-size: 45px;
+    
+}
+.leftbox{
+    border: 2px solid;
+    margin-left: 6%;
+    margin-right: 50%;
+    height: 320px;
+    background-color: sandybrown;
+}
+.rightbox{
+    border: 2px solid;
+    margin-left: 60%;
+    margin-right: 8%;
+    margin-top: -27%;
+    background-color: sandybrown;
+
+}
+.Bottombox{
+    border: 2px solid;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 8%;
+    background-color: sandybrown;
+    
+}
+body{
+    background-color: red;
+    padding-bottom: 1px;
+}
+
+.Center{
+    background-color: whitesmoke;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 1% ;
+}

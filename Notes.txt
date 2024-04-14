@@ -1,0 +1,9 @@
+ 
+ Text properties: Text color,Text Alignment,Text direction,Text decoration(in text decoration the line is required),text transform,
+ Text spacing: Text inded
+ white space property: specifies how white space inside an element is handled
+ Text shadow.
+
+ Fonts: Font family
+ css icons: Copy the cdn link in website and paste it in htm page in alink tag
+ Task: Html page.

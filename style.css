@@ -1,0 +1,56 @@
+/* body{
+    color:red;
+} */
+
+/* color: Blue;
+text-align: justify; */
+/* white-space: nowrap; */
+/* text-shadow: 5px 6px red; */
+/* font-family: Georgia, 'Times New Roman', Times, serif; */
+/* div{
+    border: 2px solid black
+} */
+/* p{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+} */
+
+    /* text-decoration-line: overline;
+    text-decoration-color: aqua;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px; */
+    /* text-transform: capitalize; */
+    /* text-indent: 100px;
+    letter-spacing: 5px;
+    word-spacing: 1px; */
+
+h1{
+    margin-top: 80px;
+    margin-left: 250px;
+    margin-right: 250px;
+    Border: 2px solid black;
+    color: green;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+
+}
+.leftbox{
+    border: 2px solid;
+    margin-left: 150px;
+    margin-right: 650px;
+    margin-top: 150px;
+    margin-bottom: 1000px;
+}
+.rightbox{
+    border: 2px solid;
+    margin-left: 700px;
+    margin-top:150px;
+    margin-bottom: 1000px;
+    margin-right: 150px;
+}
+.Bottombox{
+    border: 2px solid;
+}
+
+
